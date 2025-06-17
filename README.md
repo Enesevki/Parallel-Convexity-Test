@@ -76,7 +76,7 @@ Comparing CPU and GPU runtimes demonstrates that for large inputs, GPU is orders
 ## Video Presentation
 
 For a full walkthrough with code, test cases, and graphical analysis:  
-[YouTube Video Presentation](https://www.youtube.com/)  
+[YouTube Video Presentation]([https://www.youtube.com/](https://www.youtube.com/watch?v=q6JxeOT0JUc)  
 (Update with your actual video link.)
 
 ## Contributing
